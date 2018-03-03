@@ -8,8 +8,11 @@ If you want to download it using git, copy paste the link that is presented to y
 * check my personal memo to review the code.
 
 ```
-git clone https://github.com/harunawaizumi
-cd WebpackProject
-npm install
+git clone https://github.com/harunawaizumi/webpack_template.git
+cd webpack_template
+yarn init
+yarn install
+yarn add webpack-cli -D
+yarn build
 ```
 
